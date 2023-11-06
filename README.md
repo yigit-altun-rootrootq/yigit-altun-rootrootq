@@ -32,4 +32,3 @@ Benimle aşağıdaki platformlarda iletişime geçebilirsiniz:
 
 GitHub sayfamda yazılarıma da göz atabilirsiniz. [Blog](https://github.com/yigit-altun-rootrootq/blog) sekmesine tıklayarak daha fazla bilgiye ulaşabilirsiniz.
 
-Bu README.md dosyasını kendinize göre özelleştirebilir ve projelerinize göre güncelleyebilirsiniz. İyi çalışmalar!
